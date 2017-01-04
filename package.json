@@ -1,0 +1,13 @@
+{
+  "name": "ts-possibly-undefined-bug",
+  "version": "1.0.0",
+  "description": "Example for the TypeScript 'possibly undefined' bug.",
+  "scripts": {
+    "test": "tsc -p ."
+  },
+  "author": "Hendrik Liebau",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "2.1.4"
+  }
+}
